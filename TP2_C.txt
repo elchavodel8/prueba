@@ -1,0 +1,25 @@
+<h1>TP1 </h1>
+<h2> ACTIVIDAD 2 C </h2>
+<main>
+ 
+
+  <a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTL4DZ8MEFB2agWZnZG2HJ0scxKrL73ljlyug&usqp=CAU" alt="Wireshark image just for make it more funny, cheers Luis!."></a>
+
+  <p>Analisis de paquete:</p>
+  <p>Pasos a seguir:</p>
+  <ol>
+    <li>Bajar archivo PCAP</li>
+    <li>Abrir Wireshark</li>
+    <li>Obtener datos de paquete</li>
+  </ol>
+  
+  <ul>
+    <li>source: 145.254.160.237</li>
+    <li>destination:65.208.228.223</li>
+    <li>source port:3372</li>
+    <li>destination port:80</li>
+  </ul>
+  
+ <p>Conclusion:</p>
+ <p>Se confirma que se trata de una comunicacion via protocolo HTTP</p>
+</main>
